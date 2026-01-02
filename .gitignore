@@ -1,0 +1,18 @@
+# dependencies
+/vendor/
+
+# local configs (secrets)
+config.php
+stripe_config.php
+.env
+
+# logs / cache
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
